@@ -8,8 +8,7 @@ To manually test and evaluate the behavior of the search function for correctnes
 
 ## 📄 Files Included
 
-- `TestCases.xlsx`: Contains detailed test cases with steps, expected results, and actual results.
-- `TestReport.pdf`: Summary of test execution and findings.
+- `Test case List.xlsx`: Contains detailed test cases with steps, expected results, and actual results.
 - `Screenshots/`: Evidence and screenshots of test steps and results.
 
 ## 🛠️ Testing Types Used
